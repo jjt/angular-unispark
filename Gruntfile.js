@@ -2,9 +2,6 @@ module.exports = function(grunt) {
   grunt.initConfig({
     coffee: {
       compile: {
-        options: {
-          bare: true
-        },
         files: [
           {
             expand: true,
