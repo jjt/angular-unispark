@@ -1,0 +1,26 @@
+{
+  "name": "angular-unispark",
+  "version": "0.1.0",
+  "authors": [
+    "jjt <jason@jasontrill.com>"
+  ],
+  "description": "A unicode sparkline Angular directive",
+  "main": "unispark.js",
+  "keywords": [
+    "Angular",
+    "ng",
+    "directive",
+    "sparkline"
+  ],
+  "license": "MIT",
+  "homepage": "https://jjt.io/unispark",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "coffee"
+  ]
+}
